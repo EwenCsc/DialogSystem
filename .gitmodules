@@ -1,0 +1,3 @@
+[submodule "Assets/ThirdParts/ThirdPersonController"]
+	path = Assets/ThirdParts/ThirdPersonController
+	url = https://github.com/EwenCsc/ThirdPersonController
